@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Ontario COVID Numbers</title>
+    </head>
+    <body>
+        <div id='#italy'></div>
+
+        <script>
+         function quickRound (n) {
+             m = n* 100
+             r = Math.round(m)
+             return r / 100
+         }
+         function munge(data, name, selector) {
+             let previous = 0;
+             let lastSeven = []
+             data[name].forEach( (entry) => {
+                 //console.log(entry);
+                 let { date, confirmed, recovered, deaths } = entry;
+                 let active = confirmed - recovered - deaths;
+                 let growthrate = (previous > 0) ? (active / previous) : ""
+                 
+                 console.log(`${date} active cases: ${confirmed - recovered - deaths}`)
+                 let row = document.querySelector(selector).insertRow();
+                 for (let i of [date, active, recovered, deaths, quickRound(growthrate)]) {
+                     row.insertCell().appendChild(document.createTextNode(i));
+                 }
+                 previous = active;
+                 if (Number.isFinite(growthrate)) {
+                     lastSeven.push(growthrate);
+                 }
+                 if (lastSeven.length > 7)  {
+                     lastSeven.shift();
+                 }
+                 if (lastSeven.length === 7 ) {
+                     let sum = lastSeven.reduce((a,b ) => a + b, 0)
+                     console.log(date, sum / 7)
+                 }
+
+             }
+                 
+             )
+         }
+         fetch("https://pomber.github.io/covid19/timeseries.json")
+             .then(response => response.json())
+             .then(data => {
+                 munge(data, 'Canada', '#can-data')
+             })
+         
+         fetch("https://titaniumbones.github.io/covid19/provinces-Canada.json")
+             .then(response => response.json())
+             .then(data => {
+                 munge(data, 'Ontario', '#on-data')
+             })
+         
+        </script>
+        <h1>Ontario COVID-19 Numbers</h1>
+        <table id="on-data">
+            <tr>
+                <th>Date</th>
+                <th>Active Cases</th>
+                <th>Recovered</th>
+                <th>Deaths</th>
+                <th>weekly growthrate</th>
+            </tr>
+        </table>
+        <table id="can-data">
+            <tr>
+                <th>Date</th>
+                <th>Active Cases</th>
+                <th>Recovered</th>
+                <th>Deaths</th>
+                <th>weekly growthrate</th>
+            </tr>
+        </table>
+        
+    </body>
+</html>
+
