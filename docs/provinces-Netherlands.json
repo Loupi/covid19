@@ -329,6 +329,12 @@
       "confirmed": "1413",
       "deaths": "24",
       "recovered": "2"
+    },
+    {
+      "date": "2020-3-17",
+      "confirmed": "1705",
+      "deaths": "43",
+      "recovered": "2"
     }
   ],
   "Curacao": [
@@ -659,6 +665,12 @@
     {
       "date": "2020-3-16",
       "confirmed": "1",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-17",
+      "confirmed": "3",
       "deaths": "0",
       "recovered": "0"
     }
