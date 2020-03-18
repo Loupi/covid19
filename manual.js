@@ -28,7 +28,7 @@ function extract(filename) {
   const provinceCounts = {};
   const thisCountry = 'Canada'
   rows.forEach(([province, country, lat, long, ...counts]) => {
-        // if country hasn't been added to countryCounts, add empty obj
+    // if country hasn't been added to countryCounts, add empty obj
     //console.log(country, countryCounts[country])
     countryCounts[country] = countryCounts[country] || {mainData: {} };
     // if profince is truthy, add now
@@ -66,9 +66,8 @@ function buildSeries (dates, confirmed, deaths, recovered) {
 const [confirmed, dates] = extract(FILENAME_CONFIRMED);
 const [deaths] = extract(FILENAME_DEATHS);
 const [recovered] = extract(FILENAME_RECOVERED);
-let countries = Object.keys(confirmed);
-//console.log( confirmed)
-countries = (countries.indexOf('Provinces') !== -1 ) ? countries.slice('Provinces', -1) : countries;
+const countries = Object.keys(confirmed);
+
 const mainResults = {};
 const provSeries = {};
 countries.forEach(country => {
@@ -76,7 +75,7 @@ countries.forEach(country => {
       d = deaths[country].mainData,
       r = recovered[country].mainData;
   //console.log(c);
-  //mainResults[country] = buildSeries(dates, c, d, r);
+  mainResults[country] = buildSeries(dates, c, d, r);
   if (confirmed[country].Provinces) {
     provSeries[country] = {}
     let provinces = Object.keys(confirmed[country].Provinces)
@@ -86,18 +85,9 @@ countries.forEach(country => {
       let rp = recovered[country].Provinces[p]
       provSeries[country][p] = buildSeries(dates, cp, dp, rp);
     }
-    console.log(provSeries[country])
+    //console.log(provSeries[country])
   }
   
-  // results[country] = dates.map(date => {
-  //   const [month, day] = date.split("/");
-  //   return {
-  //     date: `2020-${month}-${day}`,
-  //     confirmed: confirmedCountries[country][date],
-  //     deaths: deathsCountries[country][date],
-  //     recovered: recovered[country][date]
-  //   };
-  // });
 });
 
 fs.writeFileSync(countryOutputPath, JSON.stringify(mainResults, null, 2));
