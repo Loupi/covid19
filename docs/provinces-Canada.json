@@ -335,6 +335,12 @@
       "confirmed": "103",
       "deaths": "4",
       "recovered": "4"
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": "186",
+      "deaths": "7",
+      "recovered": "4"
     }
   ],
   "Ontario": [
@@ -671,6 +677,12 @@
     {
       "date": "2020-3-17",
       "confirmed": "185",
+      "deaths": "1",
+      "recovered": "5"
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": "221",
       "deaths": "1",
       "recovered": "5"
     }
@@ -1011,6 +1023,12 @@
       "confirmed": "74",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": "97",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Quebec": [
@@ -1347,6 +1365,12 @@
     {
       "date": "2020-3-17",
       "confirmed": "74",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": "94",
       "deaths": "0",
       "recovered": "0"
     }
@@ -1687,6 +1711,12 @@
       "confirmed": "8",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": "11",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Manitoba": [
@@ -2023,6 +2053,12 @@
     {
       "date": "2020-3-17",
       "confirmed": "8",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": "15",
       "deaths": "0",
       "recovered": "0"
     }
@@ -2363,6 +2399,12 @@
       "confirmed": "7",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": "8",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Grand Princess": [
@@ -2701,6 +2743,12 @@
       "confirmed": "8",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": "9",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Newfoundland and Labrador": [
@@ -3036,6 +3084,12 @@
     },
     {
       "date": "2020-3-17",
+      "confirmed": "3",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-18",
       "confirmed": "3",
       "deaths": "0",
       "recovered": "0"
@@ -3377,6 +3431,12 @@
       "confirmed": "1",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": "1",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Nova Scotia": [
@@ -3713,6 +3773,12 @@
     {
       "date": "2020-3-17",
       "confirmed": "7",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": "12",
       "deaths": "0",
       "recovered": "0"
     }

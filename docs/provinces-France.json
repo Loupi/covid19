@@ -335,6 +335,12 @@
       "confirmed": "7652",
       "deaths": "148",
       "recovered": "12"
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": "9043",
+      "deaths": "148",
+      "recovered": "12"
     }
   ],
   "St Martin": [
@@ -673,6 +679,12 @@
       "confirmed": "2",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": "3",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Saint Barthelemy": [
@@ -1008,6 +1020,12 @@
     },
     {
       "date": "2020-3-17",
+      "confirmed": "3",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-18",
       "confirmed": "3",
       "deaths": "0",
       "recovered": "0"
@@ -1349,6 +1367,12 @@
       "confirmed": "3",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": "3",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "French Guiana": [
@@ -1684,6 +1708,12 @@
     },
     {
       "date": "2020-3-17",
+      "confirmed": "11",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-18",
       "confirmed": "11",
       "deaths": "0",
       "recovered": "0"
@@ -2025,6 +2055,12 @@
       "confirmed": "1",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": "3",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Guadeloupe": [
@@ -2363,6 +2399,12 @@
       "confirmed": "18",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": "27",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Reunion": [
@@ -2699,6 +2741,12 @@
     {
       "date": "2020-3-17",
       "confirmed": "9",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": "12",
       "deaths": "0",
       "recovered": "0"
     }
