@@ -341,6 +341,12 @@
       "confirmed": "712",
       "deaths": "7",
       "recovered": "325"
+    },
+    {
+      "date": "2020-3-19",
+      "confirmed": "712",
+      "deaths": "7",
+      "recovered": "325"
     }
   ]
 }

@@ -341,6 +341,12 @@
       "confirmed": "2051",
       "deaths": "58",
       "recovered": "2"
+    },
+    {
+      "date": "2020-3-19",
+      "confirmed": "2460",
+      "deaths": "76",
+      "recovered": "2"
     }
   ],
   "Curacao": [
@@ -685,6 +691,12 @@
       "confirmed": "3",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-19",
+      "confirmed": "3",
+      "deaths": "1",
+      "recovered": "0"
     }
   ],
   "Aruba": [
@@ -1026,6 +1038,12 @@
     },
     {
       "date": "2020-3-18",
+      "confirmed": "4",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-19",
       "confirmed": "4",
       "deaths": "0",
       "recovered": "0"

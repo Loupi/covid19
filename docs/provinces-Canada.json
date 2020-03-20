@@ -341,6 +341,12 @@
       "confirmed": "186",
       "deaths": "7",
       "recovered": "4"
+    },
+    {
+      "date": "2020-3-19",
+      "confirmed": "231",
+      "deaths": "7",
+      "recovered": "4"
     }
   ],
   "Ontario": [
@@ -683,6 +689,12 @@
     {
       "date": "2020-3-18",
       "confirmed": "221",
+      "deaths": "1",
+      "recovered": "5"
+    },
+    {
+      "date": "2020-3-19",
+      "confirmed": "257",
       "deaths": "1",
       "recovered": "5"
     }
@@ -1029,6 +1041,12 @@
       "confirmed": "97",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-19",
+      "confirmed": "119",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Quebec": [
@@ -1373,6 +1391,12 @@
       "confirmed": "94",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-19",
+      "confirmed": "121",
+      "deaths": "1",
+      "recovered": "0"
     }
   ],
   "New Brunswick": [
@@ -1714,6 +1738,12 @@
     },
     {
       "date": "2020-3-18",
+      "confirmed": "11",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-19",
       "confirmed": "11",
       "deaths": "0",
       "recovered": "0"
@@ -2061,6 +2091,12 @@
       "confirmed": "15",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-19",
+      "confirmed": "17",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Saskatchewan": [
@@ -2405,6 +2441,12 @@
       "confirmed": "8",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-19",
+      "confirmed": "16",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Grand Princess": [
@@ -2746,6 +2788,12 @@
     },
     {
       "date": "2020-3-18",
+      "confirmed": "9",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-19",
       "confirmed": "9",
       "deaths": "0",
       "recovered": "0"
@@ -3093,6 +3141,12 @@
       "confirmed": "3",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-19",
+      "confirmed": "3",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Prince Edward Island": [
@@ -3437,6 +3491,12 @@
       "confirmed": "1",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-19",
+      "confirmed": "2",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Nova Scotia": [
@@ -3779,6 +3839,12 @@
     {
       "date": "2020-3-18",
       "confirmed": "12",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-19",
+      "confirmed": "14",
       "deaths": "0",
       "recovered": "0"
     }
