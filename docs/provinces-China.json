@@ -347,6 +347,12 @@
       "confirmed": "67800",
       "deaths": "3130",
       "recovered": "57682"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "67800",
+      "deaths": "3133",
+      "recovered": "58382"
     }
   ],
   "Guangdong": [
@@ -697,6 +703,12 @@
       "confirmed": "1378",
       "deaths": "8",
       "recovered": "1318"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "1395",
+      "deaths": "8",
+      "recovered": "1323"
     }
   ],
   "Henan": [
@@ -1044,6 +1056,12 @@
     },
     {
       "date": "2020-3-19",
+      "confirmed": "1273",
+      "deaths": "22",
+      "recovered": "1250"
+    },
+    {
+      "date": "2020-3-20",
       "confirmed": "1273",
       "deaths": "22",
       "recovered": "1250"
@@ -1397,6 +1415,12 @@
       "confirmed": "1233",
       "deaths": "1",
       "recovered": "1217"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "1234",
+      "deaths": "1",
+      "recovered": "1219"
     }
   ],
   "Hunan": [
@@ -1744,6 +1768,12 @@
     },
     {
       "date": "2020-3-19",
+      "confirmed": "1018",
+      "deaths": "4",
+      "recovered": "1014"
+    },
+    {
+      "date": "2020-3-20",
       "confirmed": "1018",
       "deaths": "4",
       "recovered": "1014"
@@ -2097,6 +2127,12 @@
       "confirmed": "990",
       "deaths": "6",
       "recovered": "984"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "990",
+      "deaths": "6",
+      "recovered": "984"
     }
   ],
   "Jiangxi": [
@@ -2444,6 +2480,12 @@
     },
     {
       "date": "2020-3-19",
+      "confirmed": "935",
+      "deaths": "1",
+      "recovered": "934"
+    },
+    {
+      "date": "2020-3-20",
       "confirmed": "935",
       "deaths": "1",
       "recovered": "934"
@@ -2797,6 +2839,12 @@
       "confirmed": "761",
       "deaths": "7",
       "recovered": "747"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "762",
+      "deaths": "7",
+      "recovered": "748"
     }
   ],
   "Jiangsu": [
@@ -3144,6 +3192,12 @@
     },
     {
       "date": "2020-3-19",
+      "confirmed": "631",
+      "deaths": "0",
+      "recovered": "631"
+    },
+    {
+      "date": "2020-3-20",
       "confirmed": "631",
       "deaths": "0",
       "recovered": "631"
@@ -3497,6 +3551,12 @@
       "confirmed": "576",
       "deaths": "6",
       "recovered": "570"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "576",
+      "deaths": "6",
+      "recovered": "570"
     }
   ],
   "Sichuan": [
@@ -3845,6 +3905,12 @@
     {
       "date": "2020-3-19",
       "confirmed": "540",
+      "deaths": "3",
+      "recovered": "536"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "541",
       "deaths": "3",
       "recovered": "536"
     }
@@ -4197,6 +4263,12 @@
       "confirmed": "483",
       "deaths": "13",
       "recovered": "460"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "484",
+      "deaths": "13",
+      "recovered": "463"
     }
   ],
   "Beijing": [
@@ -4547,6 +4619,12 @@
       "confirmed": "480",
       "deaths": "8",
       "recovered": "380"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "491",
+      "deaths": "8",
+      "recovered": "390"
     }
   ],
   "Shanghai": [
@@ -4897,6 +4975,12 @@
       "confirmed": "363",
       "deaths": "3",
       "recovered": "326"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "371",
+      "deaths": "3",
+      "recovered": "326"
     }
   ],
   "Hebei": [
@@ -5244,6 +5328,12 @@
     },
     {
       "date": "2020-3-19",
+      "confirmed": "318",
+      "deaths": "6",
+      "recovered": "310"
+    },
+    {
+      "date": "2020-3-20",
       "confirmed": "318",
       "deaths": "6",
       "recovered": "310"
@@ -5597,6 +5687,12 @@
       "confirmed": "296",
       "deaths": "1",
       "recovered": "295"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "299",
+      "deaths": "1",
+      "recovered": "295"
     }
   ],
   "Guangxi": [
@@ -5945,6 +6041,12 @@
     {
       "date": "2020-3-19",
       "confirmed": "253",
+      "deaths": "2",
+      "recovered": "250"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "254",
       "deaths": "2",
       "recovered": "250"
     }
@@ -6297,6 +6399,12 @@
       "confirmed": "246",
       "deaths": "3",
       "recovered": "237"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "247",
+      "deaths": "3",
+      "recovered": "237"
     }
   ],
   "Yunnan": [
@@ -6644,6 +6752,12 @@
     },
     {
       "date": "2020-3-19",
+      "confirmed": "176",
+      "deaths": "2",
+      "recovered": "172"
+    },
+    {
+      "date": "2020-3-20",
       "confirmed": "176",
       "deaths": "2",
       "recovered": "172"
@@ -6997,6 +7111,12 @@
       "confirmed": "168",
       "deaths": "6",
       "recovered": "161"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "168",
+      "deaths": "6",
+      "recovered": "161"
     }
   ],
   "Guizhou": [
@@ -7344,6 +7464,12 @@
     },
     {
       "date": "2020-3-19",
+      "confirmed": "146",
+      "deaths": "2",
+      "recovered": "144"
+    },
+    {
+      "date": "2020-3-20",
       "confirmed": "146",
       "deaths": "2",
       "recovered": "144"
@@ -7697,6 +7823,12 @@
       "confirmed": "137",
       "deaths": "3",
       "recovered": "133"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "137",
+      "deaths": "3",
+      "recovered": "133"
     }
   ],
   "Shanxi": [
@@ -8044,6 +8176,12 @@
     },
     {
       "date": "2020-3-19",
+      "confirmed": "133",
+      "deaths": "0",
+      "recovered": "133"
+    },
+    {
+      "date": "2020-3-20",
       "confirmed": "133",
       "deaths": "0",
       "recovered": "133"
@@ -8397,6 +8535,12 @@
       "confirmed": "134",
       "deaths": "2",
       "recovered": "91"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "134",
+      "deaths": "2",
+      "recovered": "98"
     }
   ],
   "Hong Kong": [
@@ -8747,6 +8891,12 @@
       "confirmed": "208",
       "deaths": "4",
       "recovered": "95"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "256",
+      "deaths": "4",
+      "recovered": "98"
     }
   ],
   "Liaoning": [
@@ -9097,6 +9247,12 @@
       "confirmed": "125",
       "deaths": "1",
       "recovered": "122"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "126",
+      "deaths": "2",
+      "recovered": "122"
     }
   ],
   "Jilin": [
@@ -9444,6 +9600,12 @@
     },
     {
       "date": "2020-3-19",
+      "confirmed": "93",
+      "deaths": "1",
+      "recovered": "92"
+    },
+    {
+      "date": "2020-3-20",
       "confirmed": "93",
       "deaths": "1",
       "recovered": "92"
@@ -9797,6 +9959,12 @@
       "confirmed": "76",
       "deaths": "3",
       "recovered": "73"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "76",
+      "deaths": "3",
+      "recovered": "73"
     }
   ],
   "Inner Mongolia": [
@@ -10144,6 +10312,12 @@
     },
     {
       "date": "2020-3-19",
+      "confirmed": "75",
+      "deaths": "1",
+      "recovered": "74"
+    },
+    {
+      "date": "2020-3-20",
       "confirmed": "75",
       "deaths": "1",
       "recovered": "74"
@@ -10497,6 +10671,12 @@
       "confirmed": "75",
       "deaths": "0",
       "recovered": "75"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "75",
+      "deaths": "0",
+      "recovered": "75"
     }
   ],
   "Qinghai": [
@@ -10844,6 +11024,12 @@
     },
     {
       "date": "2020-3-19",
+      "confirmed": "18",
+      "deaths": "0",
+      "recovered": "18"
+    },
+    {
+      "date": "2020-3-20",
       "confirmed": "18",
       "deaths": "0",
       "recovered": "18"
@@ -11197,6 +11383,12 @@
       "confirmed": "17",
       "deaths": "0",
       "recovered": "10"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "17",
+      "deaths": "0",
+      "recovered": "10"
     }
   ],
   "Tibet": [
@@ -11544,6 +11736,12 @@
     },
     {
       "date": "2020-3-19",
+      "confirmed": "1",
+      "deaths": "0",
+      "recovered": "1"
+    },
+    {
+      "date": "2020-3-20",
       "confirmed": "1",
       "deaths": "0",
       "recovered": "1"
