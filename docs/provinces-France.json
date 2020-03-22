@@ -353,6 +353,12 @@
       "confirmed": "12612",
       "deaths": "450",
       "recovered": "12"
+    },
+    {
+      "date": "2020-3-21",
+      "confirmed": "14282",
+      "deaths": "562",
+      "recovered": "12"
     }
   ],
   "St Martin": [
@@ -706,6 +712,12 @@
     },
     {
       "date": "2020-3-20",
+      "confirmed": "4",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-21",
       "confirmed": "4",
       "deaths": "0",
       "recovered": "0"
@@ -1065,6 +1077,12 @@
       "confirmed": "3",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-21",
+      "confirmed": "3",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "French Polynesia": [
@@ -1419,6 +1437,12 @@
     {
       "date": "2020-3-20",
       "confirmed": "11",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-21",
+      "confirmed": "15",
       "deaths": "0",
       "recovered": "0"
     }
@@ -1777,6 +1801,12 @@
       "confirmed": "15",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-21",
+      "confirmed": "18",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Mayotte": [
@@ -2131,6 +2161,12 @@
     {
       "date": "2020-3-20",
       "confirmed": "6",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-21",
+      "confirmed": "7",
       "deaths": "0",
       "recovered": "0"
     }
@@ -2489,6 +2525,12 @@
       "confirmed": "45",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-21",
+      "confirmed": "53",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Reunion": [
@@ -2845,6 +2887,12 @@
       "confirmed": "28",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-21",
+      "confirmed": "45",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "New Caledonia": [
@@ -3199,6 +3247,12 @@
     {
       "date": "2020-3-20",
       "confirmed": "2",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-21",
+      "confirmed": "4",
       "deaths": "0",
       "recovered": "0"
     }

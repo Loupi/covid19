@@ -353,6 +353,12 @@
       "confirmed": "712",
       "deaths": "7",
       "recovered": "325"
+    },
+    {
+      "date": "2020-3-21",
+      "confirmed": "712",
+      "deaths": "8",
+      "recovered": "325"
     }
   ]
 }
