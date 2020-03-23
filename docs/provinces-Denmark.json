@@ -359,6 +359,12 @@
       "confirmed": "1326",
       "deaths": "13",
       "recovered": "1"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "1395",
+      "deaths": "13",
+      "recovered": "1"
     }
   ],
   "Faroe Islands": [
@@ -721,6 +727,12 @@
       "confirmed": "92",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "115",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Greenland": [
@@ -1081,6 +1093,12 @@
     {
       "date": "2020-3-21",
       "confirmed": "2",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "4",
       "deaths": "0",
       "recovered": "0"
     }

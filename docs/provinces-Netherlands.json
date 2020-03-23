@@ -359,6 +359,12 @@
       "confirmed": "3631",
       "deaths": "136",
       "recovered": "2"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "4204",
+      "deaths": "179",
+      "recovered": "2"
     }
   ],
   "Curacao": [
@@ -718,6 +724,12 @@
     },
     {
       "date": "2020-3-21",
+      "confirmed": "3",
+      "deaths": "1",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-22",
       "confirmed": "3",
       "deaths": "1",
       "recovered": "0"
@@ -1083,6 +1095,12 @@
       "confirmed": "5",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "8",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Sint Maarten": [
@@ -1442,6 +1460,12 @@
     },
     {
       "date": "2020-3-21",
+      "confirmed": "1",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-22",
       "confirmed": "1",
       "deaths": "0",
       "recovered": "0"

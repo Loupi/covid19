@@ -359,6 +359,12 @@
       "confirmed": "436",
       "deaths": "6",
       "recovered": "4"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "533",
+      "deaths": "6",
+      "recovered": "4"
     }
   ],
   "Victoria": [
@@ -721,6 +727,12 @@
       "confirmed": "229",
       "deaths": "0",
       "recovered": "8"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "296",
+      "deaths": "0",
+      "recovered": "70"
     }
   ],
   "Queensland": [
@@ -1080,6 +1092,12 @@
     },
     {
       "date": "2020-3-21",
+      "confirmed": "221",
+      "deaths": "0",
+      "recovered": "8"
+    },
+    {
+      "date": "2020-3-22",
       "confirmed": "221",
       "deaths": "0",
       "recovered": "8"
@@ -1445,6 +1463,12 @@
       "confirmed": "67",
       "deaths": "0",
       "recovered": "3"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "100",
+      "deaths": "0",
+      "recovered": "3"
     }
   ],
   "From Diamond Princess": [
@@ -1804,6 +1828,12 @@
     },
     {
       "date": "2020-3-21",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-22",
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
@@ -2169,6 +2199,12 @@
       "confirmed": "90",
       "deaths": "1",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "120",
+      "deaths": "1",
+      "recovered": "0"
     }
   ],
   "Tasmania": [
@@ -2529,6 +2565,12 @@
     {
       "date": "2020-3-21",
       "confirmed": "16",
+      "deaths": "0",
+      "recovered": "3"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "22",
       "deaths": "0",
       "recovered": "3"
     }
@@ -2893,6 +2935,12 @@
       "confirmed": "3",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "3",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Australian Capital Territory": [
@@ -3253,6 +3301,12 @@
     {
       "date": "2020-3-21",
       "confirmed": "9",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "19",
       "deaths": "0",
       "recovered": "0"
     }

@@ -359,6 +359,12 @@
       "confirmed": "424",
       "deaths": "10",
       "recovered": "4"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "424",
+      "deaths": "10",
+      "recovered": "4"
     }
   ],
   "Ontario": [
@@ -721,6 +727,12 @@
       "confirmed": "377",
       "deaths": "3",
       "recovered": "6"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "425",
+      "deaths": "5",
+      "recovered": "6"
     }
   ],
   "Alberta": [
@@ -1081,6 +1093,12 @@
     {
       "date": "2020-3-21",
       "confirmed": "195",
+      "deaths": "1",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "259",
       "deaths": "1",
       "recovered": "0"
     }
@@ -1445,6 +1463,12 @@
       "confirmed": "181",
       "deaths": "5",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "219",
+      "deaths": "5",
+      "recovered": "0"
     }
   ],
   "New Brunswick": [
@@ -1804,6 +1828,12 @@
     },
     {
       "date": "2020-3-21",
+      "confirmed": "17",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-22",
       "confirmed": "17",
       "deaths": "0",
       "recovered": "0"
@@ -2169,6 +2199,12 @@
       "confirmed": "18",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "19",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Saskatchewan": [
@@ -2529,6 +2565,12 @@
     {
       "date": "2020-3-21",
       "confirmed": "26",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "52",
       "deaths": "0",
       "recovered": "0"
     }
@@ -2893,6 +2935,12 @@
       "confirmed": "10",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "13",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Newfoundland and Labrador": [
@@ -3252,6 +3300,12 @@
     },
     {
       "date": "2020-3-21",
+      "confirmed": "6",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-22",
       "confirmed": "6",
       "deaths": "0",
       "recovered": "0"
@@ -3617,6 +3671,12 @@
       "confirmed": "2",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "2",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Nova Scotia": [
@@ -3979,6 +4039,12 @@
       "confirmed": "21",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "28",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Northwest Territories": [
@@ -4338,6 +4404,12 @@
     },
     {
       "date": "2020-3-21",
+      "confirmed": "1",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-22",
       "confirmed": "1",
       "deaths": "0",
       "recovered": "0"
