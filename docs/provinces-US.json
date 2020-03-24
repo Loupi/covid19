@@ -365,6 +365,12 @@
       "confirmed": "1996",
       "deaths": "95",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "1996",
+      "deaths": "95",
+      "recovered": "0"
     }
   ],
   "New York": [
@@ -730,6 +736,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "15793",
+      "deaths": "117",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "15793",
       "deaths": "117",
       "recovered": "0"
@@ -1101,6 +1113,12 @@
       "confirmed": "1642",
       "deaths": "30",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "1642",
+      "deaths": "30",
+      "recovered": "0"
     }
   ],
   "Massachusetts": [
@@ -1466,6 +1484,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "646",
+      "deaths": "5",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "646",
       "deaths": "5",
       "recovered": "0"
@@ -1837,6 +1861,12 @@
       "confirmed": "49",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "49",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Grand Princess": [
@@ -2202,6 +2232,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "30",
+      "deaths": "1",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "30",
       "deaths": "1",
       "recovered": "0"
@@ -2573,6 +2609,12 @@
       "confirmed": "600",
       "deaths": "23",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "600",
+      "deaths": "23",
+      "recovered": "0"
     }
   ],
   "Colorado": [
@@ -2938,6 +2980,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "476",
+      "deaths": "6",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "476",
       "deaths": "6",
       "recovered": "0"
@@ -3309,6 +3357,12 @@
       "confirmed": "830",
       "deaths": "13",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "830",
+      "deaths": "13",
+      "recovered": "0"
     }
   ],
   "New Jersey": [
@@ -3674,6 +3728,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "1914",
+      "deaths": "20",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "1914",
       "deaths": "20",
       "recovered": "0"
@@ -4045,6 +4105,12 @@
       "confirmed": "161",
       "deaths": "4",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "161",
+      "deaths": "4",
+      "recovered": "0"
     }
   ],
   "Texas": [
@@ -4410,6 +4476,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "627",
+      "deaths": "6",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "627",
       "deaths": "6",
       "recovered": "0"
@@ -4781,6 +4853,12 @@
       "confirmed": "1049",
       "deaths": "9",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "1049",
+      "deaths": "9",
+      "recovered": "0"
     }
   ],
   "Pennsylvania": [
@@ -5146,6 +5224,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "509",
+      "deaths": "3",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "509",
       "deaths": "3",
       "recovered": "0"
@@ -5517,6 +5601,12 @@
       "confirmed": "90",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "90",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Maryland": [
@@ -5882,6 +5972,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "244",
+      "deaths": "3",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "244",
       "deaths": "3",
       "recovered": "0"
@@ -6253,6 +6349,12 @@
       "confirmed": "302",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "302",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "South Carolina": [
@@ -6618,6 +6720,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "196",
+      "deaths": "3",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "196",
       "deaths": "3",
       "recovered": "0"
@@ -6989,6 +7097,12 @@
       "confirmed": "505",
       "deaths": "2",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "505",
+      "deaths": "2",
+      "recovered": "0"
     }
   ],
   "Virginia": [
@@ -7354,6 +7468,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "221",
+      "deaths": "6",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "221",
       "deaths": "6",
       "recovered": "0"
@@ -7725,6 +7845,12 @@
       "confirmed": "152",
       "deaths": "2",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "152",
+      "deaths": "2",
+      "recovered": "0"
     }
   ],
   "Indiana": [
@@ -8090,6 +8216,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "201",
+      "deaths": "6",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "201",
       "deaths": "6",
       "recovered": "0"
@@ -8461,6 +8593,12 @@
       "confirmed": "99",
       "deaths": "3",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "99",
+      "deaths": "3",
+      "recovered": "0"
     }
   ],
   "District of Columbia": [
@@ -8826,6 +8964,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "102",
+      "deaths": "2",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "102",
       "deaths": "2",
       "recovered": "0"
@@ -9197,6 +9341,12 @@
       "confirmed": "190",
       "deaths": "2",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "190",
+      "deaths": "2",
+      "recovered": "0"
     }
   ],
   "New Hampshire": [
@@ -9562,6 +9712,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "65",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "65",
       "deaths": "0",
       "recovered": "0"
@@ -9933,6 +10089,12 @@
       "confirmed": "169",
       "deaths": "1",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "169",
+      "deaths": "1",
+      "recovered": "0"
     }
   ],
   "Nebraska": [
@@ -10298,6 +10460,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "51",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "51",
       "deaths": "0",
       "recovered": "0"
@@ -10669,6 +10837,12 @@
       "confirmed": "355",
       "deaths": "3",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "355",
+      "deaths": "3",
+      "recovered": "0"
     }
   ],
   "Rhode Island": [
@@ -11034,6 +11208,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "83",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "83",
       "deaths": "0",
       "recovered": "0"
@@ -11405,6 +11585,12 @@
       "confirmed": "381",
       "deaths": "4",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "381",
+      "deaths": "4",
+      "recovered": "0"
     }
   ],
   "Connecticut": [
@@ -11770,6 +11956,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "223",
+      "deaths": "5",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "223",
       "deaths": "5",
       "recovered": "0"
@@ -12141,6 +12333,12 @@
       "confirmed": "48",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "48",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Oklahoma": [
@@ -12506,6 +12704,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "67",
+      "deaths": "2",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "67",
       "deaths": "2",
       "recovered": "0"
@@ -12877,6 +13081,12 @@
       "confirmed": "181",
       "deaths": "1",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "181",
+      "deaths": "1",
+      "recovered": "0"
     }
   ],
   "Kansas": [
@@ -13242,6 +13452,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "64",
+      "deaths": "2",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "64",
       "deaths": "2",
       "recovered": "0"
@@ -13613,6 +13829,12 @@
       "confirmed": "837",
       "deaths": "20",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "837",
+      "deaths": "20",
+      "recovered": "0"
     }
   ],
   "Missouri": [
@@ -13978,6 +14200,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "100",
+      "deaths": "3",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "100",
       "deaths": "3",
       "recovered": "0"
@@ -14349,6 +14577,12 @@
       "confirmed": "52",
       "deaths": "2",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "52",
+      "deaths": "2",
+      "recovered": "0"
     }
   ],
   "Alaska": [
@@ -14714,6 +14948,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "21",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "21",
       "deaths": "0",
       "recovered": "0"
@@ -15085,6 +15325,12 @@
       "confirmed": "165",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "165",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Delaware": [
@@ -15450,6 +15696,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "47",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "47",
       "deaths": "0",
       "recovered": "0"
@@ -15821,6 +16073,12 @@
       "confirmed": "42",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "42",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Maine": [
@@ -16186,6 +16444,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "89",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "89",
       "deaths": "0",
       "recovered": "0"
@@ -16557,6 +16821,12 @@
       "confirmed": "1037",
       "deaths": "9",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "1037",
+      "deaths": "9",
+      "recovered": "0"
     }
   ],
   "Mississippi": [
@@ -16922,6 +17192,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "207",
+      "deaths": "1",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "207",
       "deaths": "1",
       "recovered": "0"
@@ -17293,6 +17569,12 @@
       "confirmed": "31",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "31",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "New Mexico": [
@@ -17658,6 +17940,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "57",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "57",
       "deaths": "0",
       "recovered": "0"
@@ -18029,6 +18317,12 @@
       "confirmed": "28",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "28",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "South Dakota": [
@@ -18394,6 +18688,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "21",
+      "deaths": "1",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "21",
       "deaths": "1",
       "recovered": "0"
@@ -18765,6 +19065,12 @@
       "confirmed": "12",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "12",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Wyoming": [
@@ -19130,6 +19436,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "24",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "24",
       "deaths": "0",
       "recovered": "0"
@@ -19501,6 +19813,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Solano, CA": [
@@ -19869,6 +20187,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Santa Cruz, CA": [
@@ -20237,6 +20561,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Napa, CA": [
@@ -20605,6 +20935,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Ventura, CA": [
@@ -20973,6 +21309,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Worcester, MA": [
@@ -21341,6 +21683,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Gwinnett, GA": [
@@ -21709,6 +22057,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "DeKalb, GA": [
@@ -22077,6 +22431,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Floyd, GA": [
@@ -22445,6 +22805,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Fayette, GA": [
@@ -22813,6 +23179,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Gregg, TX": [
@@ -23181,6 +23553,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Monmouth, NJ": [
@@ -23549,6 +23927,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Burlington, NJ": [
@@ -23917,6 +24301,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Camden, NJ": [
@@ -24285,6 +24675,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Passaic, NJ": [
@@ -24653,6 +25049,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Union, NJ": [
@@ -25021,6 +25423,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Eagle, CO": [
@@ -25389,6 +25797,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Larimer, CO": [
@@ -25757,6 +26171,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Arapahoe, CO": [
@@ -26125,6 +26545,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Gunnison, CO": [
@@ -26493,6 +26919,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Kane, IL": [
@@ -26861,6 +27293,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Monroe, PA": [
@@ -27229,6 +27667,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Philadelphia, PA": [
@@ -27597,6 +28041,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Norfolk, VA": [
@@ -27965,6 +28415,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Arlington, VA": [
@@ -28333,6 +28789,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Spotsylvania, VA": [
@@ -28701,6 +29163,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Loudoun, VA": [
@@ -29069,6 +29537,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Prince George's, MD": [
@@ -29437,6 +29911,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Pottawattamie, IA": [
@@ -29805,6 +30285,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Camden, NC": [
@@ -30173,6 +30659,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Pima, AZ": [
@@ -30541,6 +31033,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Noble, IN": [
@@ -30909,6 +31407,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Adams, IN": [
@@ -31277,6 +31781,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Boone, IN": [
@@ -31645,6 +32155,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Dane, WI": [
@@ -32013,6 +32529,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Pierce, WI": [
@@ -32381,6 +32903,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Cuyahoga, OH": [
@@ -32749,6 +33277,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Weber, UT": [
@@ -33117,6 +33651,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Bennington County, VT": [
@@ -33485,6 +34025,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Carver County, MN": [
@@ -33853,6 +34399,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Charlotte County, FL": [
@@ -34221,6 +34773,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Cherokee County, GA": [
@@ -34589,6 +35147,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Collin County, TX": [
@@ -34957,6 +35521,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Jefferson County, KY": [
@@ -35325,6 +35895,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Jefferson Parish, LA": [
@@ -35693,6 +36269,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Shasta County, CA": [
@@ -36061,6 +36643,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Spartanburg County, SC": [
@@ -36429,6 +37017,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Harrison County, KY": [
@@ -36797,6 +37391,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Johnson County, IA": [
@@ -37165,6 +37765,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Berkshire County, MA": [
@@ -37533,6 +38139,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Davidson County, TN": [
@@ -37901,6 +38513,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Douglas County, OR": [
@@ -38269,6 +38887,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Fresno County, CA": [
@@ -38637,6 +39261,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Harford County, MD": [
@@ -39005,6 +39635,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Hendricks County, IN": [
@@ -39373,6 +40009,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Hudson County, NJ": [
@@ -39741,6 +40383,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Johnson County, KS": [
@@ -40109,6 +40757,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Kittitas County, WA": [
@@ -40477,6 +41131,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Manatee County, FL": [
@@ -40845,6 +41505,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Marion County, OR": [
@@ -41213,6 +41879,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Okaloosa County, FL": [
@@ -41581,6 +42253,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Polk County, GA": [
@@ -41949,6 +42627,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Riverside County, CA": [
@@ -42317,6 +43001,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Shelby County, TN": [
@@ -42685,6 +43375,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "St. Louis County, MO": [
@@ -43053,6 +43749,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Suffolk County, NY": [
@@ -43421,6 +44123,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Ulster County, NY": [
@@ -43789,6 +44497,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Volusia County, FL": [
@@ -44157,6 +44871,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Fairfax County, VA": [
@@ -44525,6 +45245,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Rockingham County, NH": [
@@ -44893,6 +45619,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Washington, D.C.": [
@@ -45261,6 +45993,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Montgomery County, PA": [
@@ -45629,6 +46367,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Alameda County, CA": [
@@ -45997,6 +46741,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Broward County, FL": [
@@ -46365,6 +47115,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Lee County, FL": [
@@ -46733,6 +47489,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Pinal County, AZ": [
@@ -47101,6 +47863,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Rockland County, NY": [
@@ -47469,6 +48237,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Saratoga County, NY": [
@@ -47837,6 +48611,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Charleston County, SC": [
@@ -48205,6 +48985,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Clark County, WA": [
@@ -48573,6 +49359,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Cobb County, GA": [
@@ -48941,6 +49733,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Davis County, UT": [
@@ -49309,6 +50107,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "El Paso County, CO": [
@@ -49677,6 +50481,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Honolulu County, HI": [
@@ -50045,6 +50855,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Jackson County, OR ": [
@@ -50413,6 +51229,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Jefferson County, WA": [
@@ -50781,6 +51603,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Kershaw County, SC": [
@@ -51149,6 +51977,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Klamath County, OR": [
@@ -51517,6 +52351,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Madera County, CA": [
@@ -51885,6 +52725,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Pierce County, WA": [
@@ -52253,6 +53099,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Tulsa County, OK": [
@@ -52621,6 +53473,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Douglas County, CO": [
@@ -52989,6 +53847,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Providence County, RI": [
@@ -53357,6 +54221,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Chatham County, NC": [
@@ -53725,6 +54595,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Delaware County, PA": [
@@ -54093,6 +54969,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Douglas County, NE": [
@@ -54461,6 +55343,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Fayette County, KY": [
@@ -54829,6 +55717,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Marion County, IN": [
@@ -55197,6 +56091,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Middlesex County, MA": [
@@ -55565,6 +56465,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Nassau County, NY": [
@@ -55933,6 +56839,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Ramsey County, MN": [
@@ -56301,6 +57213,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Washoe County, NV": [
@@ -56669,6 +57587,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Wayne County, PA": [
@@ -57037,6 +57961,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Yolo County, CA": [
@@ -57405,6 +58335,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Santa Clara County, CA": [
@@ -57773,6 +58709,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Clark County, NV": [
@@ -58141,6 +59083,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Fort Bend County, TX": [
@@ -58509,6 +59457,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Grant County, WA": [
@@ -58877,6 +59831,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Santa Rosa County, FL": [
@@ -59245,6 +60205,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Williamson County, TN": [
@@ -59613,6 +60579,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "New York County, NY": [
@@ -59981,6 +60953,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Montgomery County, MD": [
@@ -60349,6 +61327,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Suffolk County, MA": [
@@ -60717,6 +61701,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Denver County, CO": [
@@ -61085,6 +62075,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Summit County, CO": [
@@ -61453,6 +62449,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Bergen County, NJ": [
@@ -61821,6 +62823,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Harris County, TX": [
@@ -62189,6 +63197,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "San Francisco County, CA": [
@@ -62557,6 +63571,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Contra Costa County, CA": [
@@ -62925,6 +63945,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Orange County, CA": [
@@ -63293,6 +64319,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Norfolk County, MA": [
@@ -63661,6 +64693,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Maricopa County, AZ": [
@@ -64029,6 +65067,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Wake County, NC": [
@@ -64397,6 +65441,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Westchester County, NY": [
@@ -64765,6 +65815,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Grafton County, NH": [
@@ -65133,6 +66189,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Hillsborough, FL": [
@@ -65501,6 +66563,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Placer County, CA": [
@@ -65869,6 +66937,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "San Mateo, CA": [
@@ -66237,6 +67311,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Sonoma County, CA": [
@@ -66605,6 +67685,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Umatilla, OR": [
@@ -66973,6 +68059,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Fulton County, GA": [
@@ -67341,6 +68433,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Washington County, OR": [
@@ -67709,6 +68807,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Snohomish County, WA": [
@@ -68077,6 +69181,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Humboldt County, CA": [
@@ -68445,6 +69555,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Sacramento County, CA": [
@@ -68813,6 +69929,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "San Diego County, CA": [
@@ -69181,6 +70303,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "San Benito, CA": [
@@ -69549,6 +70677,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Los Angeles, CA": [
@@ -69917,6 +71051,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "King County, WA": [
@@ -70285,6 +71425,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Cook County, IL": [
@@ -70653,6 +71799,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Skagit, WA": [
@@ -71021,6 +72173,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Thurston, WA": [
@@ -71389,6 +72547,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Island, WA": [
@@ -71757,6 +72921,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Whatcom, WA": [
@@ -72125,6 +73295,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Marin, CA": [
@@ -72493,6 +73669,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Calaveras, CA": [
@@ -72861,6 +74043,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Stanislaus, CA": [
@@ -73229,6 +74417,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "San Joaquin, CA": [
@@ -73597,6 +74791,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Essex, MA": [
@@ -73965,6 +75165,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Charlton, GA": [
@@ -74333,6 +75539,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Collier, FL": [
@@ -74701,6 +75913,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Pinellas, FL": [
@@ -75069,6 +76287,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Alachua, FL": [
@@ -75437,6 +76661,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Nassau, FL": [
@@ -75805,6 +77035,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Pasco, FL": [
@@ -76173,6 +77409,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Dallas, TX": [
@@ -76541,6 +77783,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Tarrant, TX": [
@@ -76909,6 +78157,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Montgomery, TX": [
@@ -77277,6 +78531,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Middlesex, NJ": [
@@ -77645,6 +78905,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Jefferson, CO": [
@@ -78013,6 +79279,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Multnomah, OR": [
@@ -78381,6 +79653,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Polk, OR": [
@@ -78749,6 +80027,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Deschutes, OR": [
@@ -79117,6 +80401,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "McHenry, IL": [
@@ -79485,6 +80775,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Lake, IL": [
@@ -79853,6 +81149,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Bucks, PA": [
@@ -80221,6 +81523,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Hanover, VA": [
@@ -80589,6 +81897,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Lancaster, SC": [
@@ -80957,6 +82271,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Sullivan, TN": [
@@ -81325,6 +82645,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Johnson, IN": [
@@ -81693,6 +83019,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Howard, IN": [
@@ -82061,6 +83393,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "St. Joseph, IN": [
@@ -82429,6 +83767,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Knox, NE": [
@@ -82797,6 +84141,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Stark, OH": [
@@ -83165,6 +84515,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Anoka, MN": [
@@ -83533,6 +84889,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Olmsted, MN": [
@@ -83901,6 +85263,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Summit, UT": [
@@ -84269,6 +85637,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Fairfield, CT": [
@@ -84637,6 +86011,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Litchfield, CT": [
@@ -85005,6 +86385,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Orleans, LA": [
@@ -85373,6 +86759,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Pennington, SD": [
@@ -85741,6 +87133,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Beadle, SD": [
@@ -86109,6 +87507,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Charles Mix, SD": [
@@ -86477,6 +87881,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Davison, SD": [
@@ -86845,6 +88255,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Minnehaha, SD": [
@@ -87213,6 +88629,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Bon Homme, SD": [
@@ -87581,6 +89003,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Socorro, NM": [
@@ -87949,6 +89377,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Bernalillo, NM": [
@@ -88317,6 +89751,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Oakland, MI": [
@@ -88685,6 +90125,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Wayne, MI": [
@@ -89053,6 +90499,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "New Castle, DE": [
@@ -89421,6 +90873,12 @@
       "confirmed": "0",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
     }
   ],
   "Alabama": [
@@ -89786,6 +91244,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "138",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "138",
       "deaths": "0",
       "recovered": "0"
@@ -90157,6 +91621,12 @@
       "confirmed": "23",
       "deaths": "1",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "23",
+      "deaths": "1",
+      "recovered": "0"
     }
   ],
   "Guam": [
@@ -90522,6 +91992,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "27",
+      "deaths": "1",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "27",
       "deaths": "1",
       "recovered": "0"
@@ -90893,6 +92369,760 @@
       "confirmed": "3",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "",
+      "deaths": "",
+      "recovered": ""
+    }
+  ],
+  "United States Virgin Islands": [
+    {
+      "date": "2020-1-22",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-1-23",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-1-24",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-1-25",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-1-26",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-1-27",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-1-28",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-1-29",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-1-30",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-1-31",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-1",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-2",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-3",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-4",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-5",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-6",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-7",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-8",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-9",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-10",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-11",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-12",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-13",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-14",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-15",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-16",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-17",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-18",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-19",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-20",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-21",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-22",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-23",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-24",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-25",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-26",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-27",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-28",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-29",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-1",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-2",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-3",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-4",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-5",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-6",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-7",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-8",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-9",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-10",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-11",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-12",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-13",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-14",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-15",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-16",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-17",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-19",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-21",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "6",
+      "deaths": "0",
+      "recovered": "0"
+    }
+  ],
+  "US": [
+    {
+      "date": "2020-1-22",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-1-23",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-1-24",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-1-25",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-1-26",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-1-27",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-1-28",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-1-29",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-1-30",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-1-31",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-1",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-2",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-3",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-4",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-5",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-6",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-7",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-8",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-9",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-10",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-11",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-12",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-13",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-14",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-15",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-16",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-17",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-18",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-19",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-20",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-21",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-22",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-23",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-24",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-25",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-26",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-27",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-28",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-2-29",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-1",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-2",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-3",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-4",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-5",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-6",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-7",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-8",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-9",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-10",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-11",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-12",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-13",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-14",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-15",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-16",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-17",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-19",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-21",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-22",
+      "confirmed": "0",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "1",
+      "deaths": "0",
+      "recovered": "178"
     }
   ]
 }

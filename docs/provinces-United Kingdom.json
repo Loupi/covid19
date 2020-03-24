@@ -365,6 +365,12 @@
       "confirmed": "32",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "32",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Gibraltar": [
@@ -730,6 +736,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "15",
+      "deaths": "0",
+      "recovered": "2"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "15",
       "deaths": "0",
       "recovered": "2"
@@ -1101,6 +1113,12 @@
       "confirmed": "5683",
       "deaths": "281",
       "recovered": "65"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "5683",
+      "deaths": "281",
+      "recovered": "65"
     }
   ],
   "Cayman Islands": [
@@ -1466,6 +1484,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "3",
+      "deaths": "1",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "3",
       "deaths": "1",
       "recovered": "0"
@@ -1837,6 +1861,12 @@
       "confirmed": "1",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "1",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Bermuda": [
@@ -2205,6 +2235,12 @@
       "confirmed": "2",
       "deaths": "0",
       "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
+      "confirmed": "2",
+      "deaths": "0",
+      "recovered": "0"
     }
   ],
   "Isle of Man": [
@@ -2570,6 +2606,12 @@
     },
     {
       "date": "2020-3-22",
+      "confirmed": "5",
+      "deaths": "0",
+      "recovered": "0"
+    },
+    {
+      "date": "2020-3-23",
       "confirmed": "5",
       "deaths": "0",
       "recovered": "0"
